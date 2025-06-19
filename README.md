@@ -20,6 +20,10 @@ Foodie Fusion is a vibrant mobile app where you can discover, create, and share 
 - Great for healthy eating inspiration
 - Fun way to connect with fellow foodies
 
+## Everything that led us to today's Foodie Fusion
+- In the following Google Drive, you can see how we did Need Finding, User evaluations, and everything else that had helped us to create a version of Foodie Fusion that you would love and enjoy.
+**Google Drive:** https://drive.google.com/drive/folders/1-xdqh8tKVQLadesd0ptdim2D4gPBsnMH?usp=sharing
+
 ---
 
 *Foodie Fusion is your go-to app for healthy recipes and food inspiration. Start exploring and sharing today!* 
